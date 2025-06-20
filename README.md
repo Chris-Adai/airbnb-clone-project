@@ -3,3 +3,5 @@
  brief overview of the project,
  including the project goals,
  the tech stack.
+
+Team Roles
